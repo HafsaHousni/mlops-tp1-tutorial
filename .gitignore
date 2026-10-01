@@ -1,0 +1,18 @@
+
+# Environnements Python et Conda
+.conda/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Données volumineuses
+data/
+
+# Modèles entraînés
+models/
+*.pkl
+*.h5
+
+# Configuration locale de VS Code
+.vscode/
